@@ -1,2 +1,8 @@
 # python3-course-2021
-MSU Python3 course tasks
+Lomonosov Moscow State University
+
+Faculty of Computational Mathematics and Cybernetics
+
+Fall 2021
+
+https://uneex.org/LecturesCMC/PythonIntro2021
